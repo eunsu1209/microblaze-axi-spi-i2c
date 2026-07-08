@@ -1,6 +1,0 @@
-0.7
-2020.2
-Nov 18 2020
-09:47:47
-d:/github/microblaze-axi-spi-i2c/rtl/fifo.v,1771559586,verilog,,,,fifo;fifo_control_unit;register_file,,,,,,,,
-d:/github/microblaze-axi-spi-i2c/rtl/top_sw_w_sr04_dht11.v,1771746821,verilog,,,,mux4_32bit;top_sw_w_sr04_dht11,,,,,,,,
