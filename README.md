@@ -133,6 +133,13 @@ microblaze-axi-spi-i2c/
 
 ---
 
+## Demo & 발표자료
+
+[![SPI 데모 영상 보기](https://img.shields.io/badge/▶_데모_영상_보기-EA4335?style=for-the-badge&logo=youtube&logoColor=white)](docs/SoC_AXI_Peripheral_최은수_SPI.mp4)
+[![I2C 데모 영상 보기](https://img.shields.io/badge/▶_데모_영상_보기-EA4335?style=for-the-badge&logo=youtube&logoColor=white)](docs/SoC_AXI_Peripheral_최은수_I2C.mp4)
+
+📄 [발표자료 (PDF)](docs/SoC_AXI_Peripheral_최은수.pdf)
+
 ## Tech Stack
 
 `Verilog HDL` · `AXI4-Lite` · `MicroBlaze SoC` · `SPI / I2C` · `GPIO · Timer` · `Bare-metal C (MMIO)` · `UVM` · `Vivado / Vitis`
