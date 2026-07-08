@@ -132,7 +132,7 @@ HW (MMIO)     ─  레지스터 블록을 구조체로 정의, 포인터 직접 
 microblaze-axi-spi-i2c/
 ├── rtl/        # AXI4-Lite SPI·I2C slave 컨트롤러
 ├── cons/       # FPGA 제약 파일 (Basys3 핀 배치 .xdc)
-├── docs/       # 발표 자료, 블록 다이어그램
+├── docs/       # 발표 자료, 데모 영상
 └── README.md
 ```
 
