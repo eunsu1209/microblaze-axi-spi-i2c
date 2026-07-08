@@ -126,6 +126,8 @@ HW (MMIO)     ─  레지스터 블록을 구조체로 정의, 포인터 직접 
 
 📄 [발표자료 (PDF)](docs/SoC_AXI_Peripheral_최은수.pdf)
 
+---
+
 ## Project Structure
 
 ```
