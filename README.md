@@ -1,4 +1,4 @@
-# MicroBlaze SoC — AXI4-Lite SPI·I2C 설계 및 Bare-metal C 펌웨어
+# MicroBlaze SoC — AXI4-Lite SPI·I2C 설계 및 C 펌웨어
 
 > **MicroBlaze 기반 SoC**에 SPI·I2C 통신 컨트롤러를 **AXI4-Lite 슬레이브**로 설계하고,
 > Memory-mapped I/O를 제어하는 **bare-metal C 펌웨어**까지 개발한 HW–SW 통합 프로젝트
